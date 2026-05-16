@@ -15,7 +15,8 @@ export const metadata: Metadata = {
     "Painless dental treatment Hyderabad",
     "Dental implants Hyderabad",
     "D Dental Care Sanathnagar",
-    "Dr Deepa dentist"
+    "Dr Deepa dentist",
+    "D Dental Care Hyderabad",
   ],
   alternates: {
     canonical: "https://ddentalcare-sanathnagar.com"
