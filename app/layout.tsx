@@ -1,32 +1,22 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import siteData from "@/data/site-data.json";
 
-const siteTitle = "D Dental Care - Sanathnagar | Dentist in Sanath Nagar, Hyderabad";
-const description =
-  "D Dental Care - Sanathnagar by Dr. Deepa offers gentle, painless dental treatments, root canal care, implants, crowns, bridges, in-house X-ray, and patient-first dental care in Hyderabad.";
+const { brand, seo } = siteData;
 
 export const metadata: Metadata = {
-  title: siteTitle,
-  description,
-  keywords: [
-    "Dentist in Sanath Nagar",
-    "Dental clinic Hyderabad",
-    "Root canal treatment Sanath Nagar",
-    "Painless dental treatment Hyderabad",
-    "Dental implants Hyderabad",
-    "D Dental Care Sanathnagar",
-    "Dr Deepa dentist",
-    "D Dental Care Hyderabad",
-  ],
+  title: seo.title,
+  description: seo.description,
+  keywords: seo.keywords,
   alternates: {
-    canonical: "https://ddentalcare-sanathnagar.com"
+    canonical: seo.canonical
   },
   openGraph: {
-    title: siteTitle,
-    description,
+    title: seo.title,
+    description: seo.description,
     type: "website",
-    locale: "en_IN",
-    siteName: "D Dental Care - Sanathnagar"
+    locale: seo.locale,
+    siteName: brand.name
   },
   robots: {
     index: true,

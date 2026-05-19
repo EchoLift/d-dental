@@ -1,0 +1,199 @@
+{
+  "brand": {
+    "name": "D Dental Care - Sanathnagar",
+    "shortName": "D Dental Care",
+    "locationName": "Sanathnagar",
+    "logoText": "D",
+    "doctorName": "Dr. Deepa",
+    "tagline": "Fear-free dental care with a personal touch.",
+    "rating": "5.0",
+    "reviewCount": "34"
+  },
+  "seo": {
+    "title": "D Dental Care - Sanathnagar | Dentist in Sanath Nagar, Hyderabad",
+    "description": "D Dental Care - Sanathnagar by Dr. Deepa offers gentle, painless dental treatments, root canal care, implants, crowns, bridges, in-house X-ray, and patient-first dental care in Hyderabad.",
+    "keywords": [
+      "Dentist in Sanath Nagar",
+      "Dental clinic Hyderabad",
+      "Root canal treatment Sanath Nagar",
+      "Painless dental treatment Hyderabad",
+      "Dental implants Hyderabad",
+      "D Dental Care Sanathnagar",
+      "Dr Deepa dentist",
+      "D Dental Care Hyderabad"
+    ],
+    "canonical": "https://ddentalcare-sanathnagar.com",
+    "locale": "en_IN"
+  },
+  "contact": {
+    "phoneDisplay": "062816 48941",
+    "phoneE164": "+916281648941",
+    "phoneHref": "tel:06281648941",
+    "whatsappHref": "https://wa.me/916281648941?text=Hello%20D%20Dental%20Care%2C%20I%20would%20like%20to%20book%20an%20appointment.",
+    "mapsHref": "https://www.google.com/maps/search/?api=1&query=D%20Dental%20Care%20Sanathnagar%20Street%20No.%205%20Czech%20Colony%20Sanath%20Nagar%20Hyderabad",
+    "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.445358351591!2d78.4206004871582!3d17.454384300000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9174867182f5%3A0xa76a3564d67bab4e!2sD%20Dental%20Care%20-%20Sanathnagar!5e0!3m2!1sen!2sin!4v1778945890721!5m2!1sen!2sin",
+    "address": "Road, Street No. 5, Above Sowmya Driving School, Czech Colony, Shivaji Nagar, Sanath Nagar, Hyderabad, Telangana 500018",
+    "streetAddress": "Road, Street No. 5, Above Sowmya Driving School, Czech Colony, Shivaji Nagar, Sanath Nagar",
+    "addressLocality": "Hyderabad",
+    "addressRegion": "Telangana",
+    "postalCode": "500018",
+    "addressCountry": "IN",
+    "location": "Sanath Nagar, Hyderabad",
+    "timings": "Opens 5 PM · Closes 9 PM",
+    "openTodayLabel": "Open today",
+    "openTodayValue": "5 PM - 9 PM",
+    "openingHours": {
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "opens": "17:00",
+      "closes": "21:00"
+    }
+  },
+  "nav": [
+    { "label": "Dr. Deepa", "href": "#doctor" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Comfort", "href": "#comfort" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "ratingBadge": "5.0 rated clinic · 34 reviews",
+    "headline": "Gentle Dental Care You Can Trust",
+    "subheadline": "Fear-free dental care with a personal touch by Dr. Deepa. Painless treatments, modern equipment, in-house X-ray, and patient comfort at the center of every visit.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Call Now",
+    "imageAlt": "Warm modern dental clinic with a friendly dentist reassuring a relaxed patient",
+    "comfortBadgeTitle": "Fear-free visits",
+    "comfortBadgeText": "Gentle, reassuring care",
+    "trustIndicators": [
+      "Painless root canal care",
+      "Affordable treatment plans",
+      "Friendly, clear explanations"
+    ]
+  },
+  "trustBar": [
+    { "icon": "Star", "label": "5.0 Rated Clinic", "note": "34 patient reviews" },
+    { "icon": "ShieldCheck", "label": "Painless Procedures", "note": "Gentle handling" },
+    { "icon": "Microscope", "label": "Modern Equipment", "note": "Precise treatments" },
+    { "icon": "BadgeCheck", "label": "In-house X-Ray", "note": "Quick diagnosis" },
+    { "icon": "HeartHandshake", "label": "Experienced Care", "note": "By Dr. Deepa" }
+  ],
+  "doctor": {
+    "cardRole": "Doctor",
+    "cardInitials": "DD",
+    "cardDescription": "Known by patients for a friendly approach, professional skill, and gentle treatment.",
+    "eyebrow": "About the care",
+    "heading": "A dentist who helps patients feel safe before treatment begins.",
+    "body": "At D Dental Care - Sanathnagar, Dr. Deepa’s approach is personal, calm, and clear. Patients are guided through their treatment options, comfort is checked throughout, and every procedure is handled with reassuring precision.",
+    "highlights": [
+      "Clear treatment explanations",
+      "Gentle chairside communication",
+      "Professional, skilled procedures",
+      "Affordable, patient-first decisions"
+    ]
+  },
+  "services": {
+    "eyebrow": "Dental services",
+    "heading": "Skilled treatments delivered with comfort-first care.",
+    "items": [
+      {
+        "icon": "Cross",
+        "title": "Root Canal Treatment",
+        "text": "Comfort-first RCT care with clear explanations and a calm chairside experience."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Dental Implants",
+        "text": "Confident tooth replacement planning with modern tools and patient-focused guidance."
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Crowns & Bridges",
+        "text": "Natural-looking restorations designed for strength, fit, and everyday comfort."
+      },
+      {
+        "icon": "Waves",
+        "title": "Teeth Cleaning",
+        "text": "Gentle scaling and polishing for a fresh, healthy, brighter-feeling smile."
+      },
+      {
+        "icon": "Syringe",
+        "title": "Tooth Extraction",
+        "text": "Smooth, careful procedures with a focus on reducing fear and discomfort."
+      },
+      {
+        "icon": "Smile",
+        "title": "Smile Restoration",
+        "text": "Thoughtful treatment plans to restore function, confidence, and aesthetics."
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Dental Fillings",
+        "text": "Precise cavity care with durable fillings and patient-friendly communication."
+      }
+    ]
+  },
+  "comfort": {
+    "eyebrow": "Fear-free experience",
+    "heading": "Nervous About Dental Treatment?",
+    "body": "You are not rushed into the chair. Dr. Deepa takes time to explain the problem, the treatment, and the comfort steps so procedures feel smooth, manageable, and far less intimidating.",
+    "points": [
+      "Painless techniques",
+      "Gentle handling",
+      "Quick procedures",
+      "Calm clinic environment"
+    ],
+    "quote": "Patients should understand what is happening and feel cared for at every step.",
+    "quoteAttribution": "The care philosophy at D Dental Care"
+  },
+  "testimonials": {
+    "eyebrow": "Patient stories",
+    "heading": "Comfort people remember.",
+    "items": [
+      {
+        "quote": "Dr. Deepa explained every step clearly and made the root canal feel surprisingly comfortable.",
+        "name": "Patient review",
+        "tag": "Painless RCT"
+      },
+      {
+        "quote": "The clinic felt hygienic and peaceful. The treatment was quick, smooth, and very professional.",
+        "name": "Patient review",
+        "tag": "Clean & calm"
+      },
+      {
+        "quote": "Friendly doctor, approachable staff, and affordable care. I felt safe through the whole visit.",
+        "name": "Patient review",
+        "tag": "Gentle care"
+      }
+    ]
+  },
+  "facilities": {
+    "eyebrow": "Modern facilities",
+    "heading": "Clean, equipped, and reassuring from the first look.",
+    "body": "The clinic experience is designed to support accurate diagnosis, smooth procedures, and a sense of hygiene and calm that helps patients relax.",
+    "items": [
+      "In-house dental X-ray for quicker treatment planning",
+      "Modern equipment for root canal, crowns, bridges, and implants",
+      "Hygienic environment with a clean, reassuring clinic flow",
+      "Comfortable treatment setup designed for nervous patients"
+    ]
+  },
+  "contactSection": {
+    "eyebrow": "Visit the clinic",
+    "phoneLabel": "Phone",
+    "timingsLabel": "Timings",
+    "locationLabel": "Location",
+    "whatsappCta": "WhatsApp",
+    "directionsCta": "Get Directions",
+    "mapTitle": "D Dental Care - Sanathnagar map"
+  },
+  "footer": {
+    "links": [
+      { "label": "Dr. Deepa", "href": "#doctor" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "mobileCtas": {
+    "call": "Call",
+    "book": "Book"
+  }
+}
